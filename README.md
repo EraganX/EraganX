@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charith Eranga</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eraganx&label=Profile%20views&color=0e75b6&style=flat" alt="eraganx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eraganx" alt="eraganx" /></a> </p>
-
 - 🌱 I’m currently learning **Unity Game Engine, C#, and Flutter**
 
 - 📫 How to reach me **Charith1299@gmail.com & Eraganx@gmail.com**
@@ -22,4 +20,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eraganx&show_icons=true&locale=en&layout=compact" alt="eraganx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eraganx&" alt="eraganx" /></p>
-
