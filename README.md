@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Charith1299@gmail.com & Eraganx@gmail.com**
 
-- ⚡ Fun fact **Watching Movies and Playing Games**
+<-- ⚡ Fun fact **Watching Movies and Playing Games**>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
